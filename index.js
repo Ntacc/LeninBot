@@ -1,6 +1,8 @@
 /*
 	Hello! I usually don't use many comments in my code, but because I'm collaborating on this with Molotov, I'll be adding a few comments to help him understand what this code does.
 		- Shostakovich
+	Thanks!
+		- Molotov
 */
 
 const Discord = require("discord.js"); // This imports discord.js, which is used to communicate with the Discord API.
